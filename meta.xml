@@ -1,0 +1,7 @@
+<meta>
+     <info author="AceXpert/ilham" version="1.4.1" type="script" name="bodyguard" description="My first resource" />
+     <script src="server/bodyguard.lua" type="server"/>
+     <script src="server/ability.lua"  type="server"/>
+	 <script src="server/start.lua"  type="server"/>
+	 <include resource="slothbot" />
+</meta>
